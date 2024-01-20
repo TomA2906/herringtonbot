@@ -9,7 +9,7 @@
    1.1. Enable 'Message Content Intent' in Discord Developer Portal
 2. Node.js 16.11.0 or newer
 
-## 🚀 Getting Started
+## Getting Started
 
 ```sh
 git clone https://github.com/TomArm06/herringtonbot.git
@@ -22,8 +22,6 @@ After installation finishes follow configuration instructions then run `npm run 
 ## ⚙️ Configuration
 
 Copy or Rename `config.json.example` to `config.json` and fill out the values:
-
-⚠️ **Note: Never commit or share your token or api keys publicly** ⚠️
 
 ```json
 {
