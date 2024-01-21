@@ -19,7 +19,7 @@ npm install
 
 After installation finishes follow configuration instructions then run `npm run start` to start the bot.
 
-## ⚙️ Configuration
+## Configuration
 
 Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
