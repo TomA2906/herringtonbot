@@ -40,6 +40,6 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 2. Clone your fork: `git clone https://github.com/your-username/herringtonbot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
-5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
+5. Commit your changes: `cz` OR `npm run commit` try avoid using `git commit` sometimes it doesn't work that well
 6. Push to the branch: `git push origin my-new-feature`
 7. Submit a pull request
